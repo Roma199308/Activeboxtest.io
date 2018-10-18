@@ -45,12 +45,13 @@ ul{
 	font-size: 13px;
 	margin-right:5px;
 	padding-left:48px;
-	color:#cacad1;
+
 	
 
 }
 .site-navigation{
 	float:right;
+
 	
 }
 .main-navigation::after{
@@ -63,16 +64,19 @@ ul{
 	margin:0;
 	padding:0;
 	list-style:none;
+
 }
 	
-
-.site-navigation a:visited{
+.site-navigation a:visited, {
 	color:#cacad1;
+
+
+
 	
 }
  a{
-	text-decoration: none; 	 
-		 
+	text-decoration: none;
+	 color:#cacad1;
  }	
 	
 .one-page{
@@ -388,4 +392,3 @@ color:#ffffff;
 	
 	
 
-	
